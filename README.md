@@ -11,7 +11,7 @@ pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe d
 
 ![Recinto Alucinante](https://mac.uchile.cl/wp-content/uploads/2022/07/Carren%CC%83o.jpg)  
 
-![Archivo del MAC](https://mac.uchile.cl/obras/recinto-alucinante/)
+[Archivo del MAC](https://mac.uchile.cl/obras/recinto-alucinante/)
 
 ### Problemas y soluciones dentro del trabajo
 
