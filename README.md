@@ -9,7 +9,9 @@ El primer paso fue encontrar una obra que llamase nuestra atención y responda a
 2025 en la exposición del MAC (Museo de Arte Contemporaneo) "Abstractos, kineticos y cinéticos". La obra en cuestión se llama Recinto Alucinante (1961) y  
 pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe del movimiento abstracto en Chile. 
 
-![Recinto Alucinante](https://mac.uchile.cl/wp-content/uploads/2022/07/Carren%CC%83o.jpg)
+![Recinto Alucinante](https://mac.uchile.cl/wp-content/uploads/2022/07/Carren%CC%83o.jpg)  
+
+![
 
 ### Problemas y soluciones dentro del trabajo
 
