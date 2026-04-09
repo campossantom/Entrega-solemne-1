@@ -11,6 +11,24 @@ pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe d
 
 ![Recinto Alucinante](https://mac.uchile.cl/wp-content/uploads/2022/07/Carren%CC%83o.jpg)
 
+### Problemas y soluciones dentro del trabajo
+
+En un inicio la primera dificultad se parte en el como resolver la redistribución, pero solo dejar fluir la imaginanción y una pieza que busque  
+ser una reversión del mismo ayudo a resolver esto.  
+Una vez desarrollada la idea, al traspasarlo a un papel milimetrado, surge la problematica respecto al pixelado y traslación al programa.
+Esto se resolvió creando un canvas en Adobe Illustrator y rehaciendo la obra en este programa, aprovechando que cada nodo queda marcado y en el programa te  
+entrega las coordenadas (X,Y) de manera exacta para así facilitar el proceso de traspaso al software P5.
+
+El conflicto para replicar colores se resolvió con ayuda de la inteligencia artificial Claude.com para obtener los códigos RGB.  
+
+El mayor conflicto de traspaso a la composición fue la utilización del arco, ya que la forma en la cuál aprendimos a generarlos, nos entrega la mitad de un círculo  
+completo, por lo que se veía mucho más grande, esto se solucionó creando un rectangulo del color del fondo y posteriormente una línea para dejar la composición como se  
+quería. Además el circulo fue probandose desde una coordenada Y en negativo.
+
+### Link con el archivo de P5.Js   
+
+[Archivo en P5.Js de la obra](https://editor.p5js.org/campossantom/sketches/lizYvFDVF)
+
 
 ## Código de nuestro archivo  en P5.Js  
 Cada código esta en conjunto a su comentario respectivo.
