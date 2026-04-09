@@ -27,9 +27,15 @@ El mayor conflicto de traspaso a la composición fue la utilización del arco, y
 completo, por lo que se veía mucho más grande, esto se solucionó creando un rectangulo del color del fondo y posteriormente una línea para dejar la composición como se  
 quería. Además el circulo fue probandose desde una coordenada Y en negativo.
 
+<img width="500" height="502" alt="Captura de pantalla 2026-04-09 a la(s) 5 08 42 p m" src="https://github.com/user-attachments/assets/52ff4e14-ad52-4848-bca2-da79ba797a9f" />
+<img width="500" height="502" alt="Captura de pantalla 2026-04-09 a la(s) 5 08 08 p m" src="https://github.com/user-attachments/assets/3d7a7e22-cbd1-4a92-8da0-ab1ffda3df14" />
+
+
+
 ### Link con el archivo de P5.Js   
 
 [Archivo en P5.Js de la obra](https://editor.p5js.org/campossantom/sketches/lizYvFDVF)
+
 
 
 ## Código de nuestro archivo  en P5.Js  
