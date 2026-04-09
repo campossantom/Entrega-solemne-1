@@ -6,7 +6,7 @@ en este documento mostramos el paso a paso y los resultados obtenidos en base al
 P5.Js.
 
 El primer paso fue encontrar una obra que llamase nuestra atención y responda al arte abstracto, en este caso utilizamos una obra vista el año  
-2025 en la exposición del MAC (Museo de Arte Contemporaneo) "Abstractos, kineticos y cinéticos". La obra en cuestión se llama Recinto Alucinante /(1961) y  
+2025 en la exposición del MAC (Museo de Arte Contemporaneo) "Abstractos, kineticos y cinéticos". La obra en cuestión se llama Recinto Alucinante (1961) y  
 pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe del movimiento abstracto en Chile. 
 ## Código de nuestro archivo  en P5.Js  
 Cada código esta en conjunto a su comentario respectivo.
