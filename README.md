@@ -11,7 +11,7 @@ pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe d
 
 ![Recinto Alucinante](https://mac.uchile.cl/wp-content/uploads/2022/07/Carren%CC%83o.jpg)  
 
-![
+![Archivo del MAC](https://mac.uchile.cl/obras/recinto-alucinante/)
 
 ### Problemas y soluciones dentro del trabajo
 
@@ -20,6 +20,8 @@ ser una reversión del mismo ayudo a resolver esto.
 Una vez desarrollada la idea, al traspasarlo a un papel milimetrado, surge la problematica respecto al pixelado y traslación al programa.
 Esto se resolvió creando un canvas en Adobe Illustrator y rehaciendo la obra en este programa, aprovechando que cada nodo queda marcado y en el programa te  
 entrega las coordenadas (X,Y) de manera exacta para así facilitar el proceso de traspaso al software P5.
+
+<img width="296" height="206" alt="Captura de pantalla 2026-04-09 a la(s) 5 13 34 p m" src="https://github.com/user-attachments/assets/d4b3d685-e191-42b0-a919-3bb1eea8d71d" />
 
 El conflicto para replicar colores se resolvió con ayuda de la inteligencia artificial Claude.com para obtener los códigos RGB.  
 
