@@ -1,6 +1,15 @@
 # Entrega-solemne-1
 
-##
+## Presentación de Proyecto  
+En este proyecto desarrollamos el uso del creative coding para desarrollar una obra personal a partir de un referente de arte abstracto  
+en este documento mostramos el paso a paso y los resultados obtenidos en base al uso y aprendizaje de códigos de programación utilizados en  
+P5.Js.
+
+El primer paso fue encontrar una obra que llamase nuestra atención y responda al arte abstracto, en este caso utilizamos una obra vista el año  
+2025 en la exposición del MAC (Museo de Arte Contemporaneo) "Abstractos, kineticos y cinéticos". La obra en cuestión se llama Recinto Alucinante /(1961) y  
+pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe del movimiento abstracto en Chile. 
+## Código de nuestro archivo  en P5.Js  
+Cada código esta en conjunto a su comentario respectivo.
 
 function setup() {  
   createCanvas(500, 500); //tamaño del canvas en pixeles.  
@@ -41,3 +50,5 @@ function draw() {
   strokeCap(SQUARE); //corte en cuadrado para la línea  
   line(80, 2.5, 450, 2.5); //coordenadas en relación a donde se creó el cuadrado para tapar el arco.  
 }
+
+## 
