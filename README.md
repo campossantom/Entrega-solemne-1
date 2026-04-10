@@ -15,7 +15,17 @@ pertene al autor Cubano Mario Carreño que se radicó en Chile y fue participe d
 
 [Archivo del MAC](https://mac.uchile.cl/obras/recinto-alucinante/)
 
+## Dibujo inicial
+
+<img width="432" height="425" alt="Captura de pantalla 2026-04-09 a la(s) 10 48 47 p m" src="https://github.com/user-attachments/assets/2b1ed74b-9b50-4fa6-952f-20be59e749b0" />
+
+
 ### Problemas y soluciones dentro del trabajo
+
+Se nos presentó el problema de que en un inició no incluimos todos los elementos solicitados (arco, cuadrado, rectangulo, triangulo y círculo)  
+Así que utilizando este como base redistribuí las piezas para crear una composición nueva en Illustrator utilizando de base la antigua.
+
+<img width="441" height="443" alt="Captura de pantalla 2026-04-09 a la(s) 10 51 04 p m" src="https://github.com/user-attachments/assets/90a5dd76-1e3a-41fc-bfd2-3d6b176bcee1" />
 
 En un inicio la primera dificultad se parte en el como resolver la redistribución, pero solo dejar fluir la imaginanción y una pieza que busque  
 ser una reversión del mismo ayudo a resolver esto.  
@@ -85,4 +95,7 @@ function draw() {
   line(80, 2.5, 450, 2.5); //coordenadas en relación a donde se creó el cuadrado para tapar el arco.  
 }
 
-## 
+## Resultado Final
+
+<img width="500" height="502" alt="Captura de pantalla 2026-04-09 a la(s) 5 08 08 p m" src="https://github.com/user-attachments/assets/06eab96c-a4a0-4e04-85b0-072924882cef" />
+
