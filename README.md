@@ -8,7 +8,7 @@ Así a través de este memorándum vamos a mostrar como desarrollamos y nos insp
 
 ## Referentes
 
-![img](https://mx.pinterest.com/pin/489062840769481912/)
+![img](https://i.pinimg.com/736x/49/81/bc/4981bc3d21e1b948a509f718067efdd5.jpg)
 
 ### Primeros acercamientos
 
