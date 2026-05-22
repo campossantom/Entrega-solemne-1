@@ -1,9 +1,14 @@
-# Entrega-solemne-1
+# Entrega-solemne-2
 
-## Presentación de Proyecto  
-En este proyecto desarrollamos el uso del creative coding para desarrollar una obra personal a partir de un referente de arte abstracto  
-en este documento mostramos el paso a paso y los resultados obtenidos en base al uso y aprendizaje de códigos de programación utilizados en  
-P5.Js.
+# Coding Creative Ejercicios y relación crítica con el las problemáticas de genero
+
+Nuestro proyecto se realizo en P5.Js utilizando todas las directrices señaladas, considerando las problemáticas que un proyecto de código refiere, aprender variantes, códigos y horas de aprendizaje. Más que centrarnos directamente en un trabajo tan potente visualmente y cargado de simbolismos, buscamos representar nuestro aprendizaje de código y lograr unir todos los elementos que se solicitaban para así con este ejercicio tener herramientas que nos permitan en un futuro desarrollar de manera paciente y crítica nuestros proyectos.
+
+Así a través de este memorándum vamos a mostrar como desarrollamos y nos inspiramos para llegar a este lugar.
+
+## Referentes
+
+[img](<!-- Uploading "basquiat.jpg"... -->)
 
 ### Primeros acercamientos
 
