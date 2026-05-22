@@ -14,6 +14,7 @@ Así a través de este memorándum vamos a mostrar como desarrollamos y nos insp
 ![img](https://i.pinimg.com/736x/60/2a/c2/602ac205da9599594f16ef6789c10cdf.jpg)
 ![img](https://i.pinimg.com/736x/93/1b/71/931b711016945f02e05966e23c2be96b.jpg)
 ![img](https://i.pinimg.com/736x/e9/a1/5d/e9a15dab72621b52f29753bedf6abf3a.jpg)
+![img](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/FTFF6OE7JZEVFHJM2J7JSD5UT4.jpg)
 
 ### Primeros acercamientos
 
@@ -31,7 +32,7 @@ Además adjuntos algunos links de ejercicios, perdimos uno que fue un mapa inter
 
 La mayoría de los problemas fueron como ir describiendo y empezar el código adentrandonos a problemas. Además de convencernos de una problematica y como abordarla de manera correcta en el código.
 
-Llegamos a la tematica escuchando un a Pablo Chile, los gangsters también lloran y pensamos "los hombres no lloran" y ahí reflexionando nos cuestionamos la problematica de manera importante respecto a como los hombres y masculinidades no reflexionan sobre sus sentimientos y como esto nos provoca de manera social no hablar sobre nuestra emocionalidad y reprimir emociones, siendo estas desembocadas de maneras poco saludables, llegando inclusive hasta el suicidio. Así encontramos nuestra problematica, como el caos mental y el ruido social nos empujan a caer en un gris oscuro, donde ocultamos la emocionalidad. 
+Llegamos a la tematica escuchando un a Pablo Chile, los gangsters también lloran y pensamos "los hombres no lloran" y ahí reflexionando nos cuestionamos la problematica de manera importante respecto a como los hombres y masculinidades no reflexionan sobre sus sentimientos y como esto nos provoca de manera social no hablar sobre nuestra emocionalidad y reprimir emociones, siendo estas desembocadas de maneras poco saludables, llegando inclusive hasta el suicidio. Así encontramos nuestra problematica, como el caos mental y el ruido social nos empujan a caer en un gris oscuro, donde ocultamos la emocionalidad. Además aprovechamos de utilizar referencia a la obra *¿ES USTED FELIZ?* de Alfredo Jaar, que nos pareció pertinente para el ejercicio.
 
 Ya adentrandonos y buscando cumplir con todos los requerimientos nos costaba ir en acumulación, ya que para nosotros buscabamos simplificar lo más posible, sin embargo fuimos dejando de lado lo literal de la imagen y basandonos en simbolos de la cultura popular como lo son las "Smiley Face" que aparecen en un episodio de Los Simpson cuando Lise consume antidepresivos/ansioliticos, representando como necesitamos enajenar en ocasiones con agentes exogenos nuestras emociones y así taparlas. Sin embargo estas sin un tratamiento adecuado, no solucionan el problema y desenbocan en dependencia y caer a lo más bajo en algunas ocasiones. Los hombres por esto tienden a ser de las personas que más suicidios efectivos realizan a pesar de no ser los que más lo intentan. Esto es relevante y hay muchos estudios que invitamos a revisar.
 
