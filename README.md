@@ -176,6 +176,7 @@ function mouseReleased() {
 Cada código esta en conjunto a su comentario respectivo.
 
 ## Mapa de flujo
+<img width="1251" height="1600" alt="WhatsApp Image 2026-05-22 at 10 43 33" src="https://github.com/user-attachments/assets/cd0aced7-edce-4a77-8637-e9c822d326f1" />
 
 
 
